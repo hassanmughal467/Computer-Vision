@@ -1,10 +1,10 @@
 # Computer-Vision
 # Domain Of Computer Vision 
-# 1.Detection 
-# 2.Tracking
-# 3.Image Processing 
-# 4.Gans 
-# 5.Geometrical Computer Vision
+1.Detection 
+2.Tracking
+3.Image Processing 
+4.Gans 
+5.Geometrical Computer Vision
 
 1. Basic is Classificatio Problem
 2. Classification + Localization(srf ek object hoga)
