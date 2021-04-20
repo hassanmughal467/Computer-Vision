@@ -1,4 +1,5 @@
 # Computer-Vision
+
 # Domain Of Computer Vision 
 1.Detection 
 2.Tracking
@@ -6,6 +7,7 @@
 4.Gans 
 5.Geometrical Computer Vision
 
+# Things to be done
 1. Basic is Classificatio Problem
 2. Classification + Localization(srf ek object hoga)
 3. Object Detection(multiples objects hoskte hain)
